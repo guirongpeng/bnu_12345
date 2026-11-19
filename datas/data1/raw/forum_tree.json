@@ -1,0 +1,367 @@
+{
+  "fetchedAt": "2026-10-29 16:48:56",
+  "province": "北京市",
+  "provinceFid": 4,
+  "children": [
+    {
+      "fid": 539,
+      "name": "北京市委书记尹力",
+      "hasChild": 0,
+      "threadsNum": 112529,
+      "tnumYear": 7577,
+      "leaders": []
+    },
+    {
+      "fid": 540,
+      "name": "北京市市长殷勇",
+      "hasChild": 0,
+      "threadsNum": 40325,
+      "tnumYear": 3189,
+      "leaders": []
+    },
+    {
+      "fid": 638,
+      "name": "东城区",
+      "hasChild": 1,
+      "threadsNum": 5922,
+      "tnumYear": 411,
+      "leaders": []
+    },
+    {
+      "fid": 639,
+      "name": "西城区",
+      "hasChild": 1,
+      "threadsNum": 6445,
+      "tnumYear": 338,
+      "leaders": [
+        {
+          "fid": 735,
+          "name": "西城区委书记郅海杰",
+          "threadsNum": 3736,
+          "tnumYear": 241
+        },
+        {
+          "fid": 736,
+          "name": "西城区代区长曾林峰",
+          "threadsNum": 2709,
+          "tnumYear": 97
+        }
+      ]
+    },
+    {
+      "fid": 642,
+      "name": "朝阳区",
+      "hasChild": 1,
+      "threadsNum": 26292,
+      "tnumYear": 2399,
+      "leaders": [
+        {
+          "fid": 741,
+          "name": "朝阳区委书记吴小杰",
+          "threadsNum": 18552,
+          "tnumYear": 1753
+        },
+        {
+          "fid": 742,
+          "name": "朝阳区区长聂杰英",
+          "threadsNum": 7740,
+          "tnumYear": 646
+        }
+      ]
+    },
+    {
+      "fid": 643,
+      "name": "海淀区",
+      "hasChild": 1,
+      "threadsNum": 21920,
+      "tnumYear": 1825,
+      "leaders": [
+        {
+          "fid": 743,
+          "name": "海淀区委书记王少峰",
+          "threadsNum": 15356,
+          "tnumYear": 1288
+        },
+        {
+          "fid": 744,
+          "name": "海淀区区长许心超",
+          "threadsNum": 6564,
+          "tnumYear": 537
+        }
+      ]
+    },
+    {
+      "fid": 644,
+      "name": "丰台区",
+      "hasChild": 1,
+      "threadsNum": 12908,
+      "tnumYear": 918,
+      "leaders": [
+        {
+          "fid": 745,
+          "name": "丰台区委书记于波",
+          "threadsNum": 8960,
+          "tnumYear": 715
+        },
+        {
+          "fid": 746,
+          "name": "丰台区代区长周同伟",
+          "threadsNum": 3948,
+          "tnumYear": 203
+        }
+      ]
+    },
+    {
+      "fid": 645,
+      "name": "石景山区",
+      "hasChild": 1,
+      "threadsNum": 5111,
+      "tnumYear": 500,
+      "leaders": [
+        {
+          "fid": 747,
+          "name": "石景山区委书记万隆",
+          "threadsNum": 3421,
+          "tnumYear": 386
+        },
+        {
+          "fid": 748,
+          "name": "石景山区代区长岳立",
+          "threadsNum": 1690,
+          "tnumYear": 114
+        }
+      ]
+    },
+    {
+      "fid": 646,
+      "name": "门头沟区",
+      "hasChild": 1,
+      "threadsNum": 3030,
+      "tnumYear": 213,
+      "leaders": [
+        {
+          "fid": 749,
+          "name": "门头沟区委书记喻华锋",
+          "threadsNum": 2104,
+          "tnumYear": 173
+        },
+        {
+          "fid": 750,
+          "name": "门头沟区代区长张鑫",
+          "threadsNum": 926,
+          "tnumYear": 40
+        }
+      ]
+    },
+    {
+      "fid": 647,
+      "name": "房山区",
+      "hasChild": 1,
+      "threadsNum": 8164,
+      "tnumYear": 536,
+      "leaders": [
+        {
+          "fid": 751,
+          "name": "房山区委书记阳波",
+          "threadsNum": 5882,
+          "tnumYear": 421
+        },
+        {
+          "fid": 752,
+          "name": "房山区区长底志欣",
+          "threadsNum": 2282,
+          "tnumYear": 115
+        }
+      ]
+    },
+    {
+      "fid": 648,
+      "name": "通州区",
+      "hasChild": 1,
+      "threadsNum": 8439,
+      "tnumYear": 890,
+      "leaders": [
+        {
+          "fid": 753,
+          "name": "通州区委书记李俊杰",
+          "threadsNum": 5751,
+          "tnumYear": 678
+        },
+        {
+          "fid": 754,
+          "name": "通州区区长郑皓",
+          "threadsNum": 2688,
+          "tnumYear": 212
+        }
+      ]
+    },
+    {
+      "fid": 649,
+      "name": "顺义区",
+      "hasChild": 1,
+      "threadsNum": 7083,
+      "tnumYear": 566,
+      "leaders": [
+        {
+          "fid": 755,
+          "name": "顺义区委书记吕鸣",
+          "threadsNum": 5084,
+          "tnumYear": 418
+        },
+        {
+          "fid": 756,
+          "name": "顺义区区长崔小浩",
+          "threadsNum": 1999,
+          "tnumYear": 148
+        }
+      ]
+    },
+    {
+      "fid": 650,
+      "name": "昌平区",
+      "hasChild": 1,
+      "threadsNum": 11628,
+      "tnumYear": 805,
+      "leaders": [
+        {
+          "fid": 757,
+          "name": "昌平区委书记甘靖中",
+          "threadsNum": 8531,
+          "tnumYear": 598
+        },
+        {
+          "fid": 758,
+          "name": "昌平区区长刘晓东",
+          "threadsNum": 3097,
+          "tnumYear": 207
+        }
+      ]
+    },
+    {
+      "fid": 651,
+      "name": "大兴区",
+      "hasChild": 1,
+      "threadsNum": 14845,
+      "tnumYear": 1015,
+      "leaders": [
+        {
+          "fid": 759,
+          "name": "大兴区委书记初军威",
+          "threadsNum": 11156,
+          "tnumYear": 728
+        },
+        {
+          "fid": 760,
+          "name": "大兴区区长刘洋",
+          "threadsNum": 3689,
+          "tnumYear": 287
+        }
+      ]
+    },
+    {
+      "fid": 652,
+      "name": "怀柔区",
+      "hasChild": 1,
+      "threadsNum": 840,
+      "tnumYear": 144,
+      "leaders": [
+        {
+          "fid": 761,
+          "name": "怀柔区委书记 张强",
+          "threadsNum": 602,
+          "tnumYear": 107
+        },
+        {
+          "fid": 762,
+          "name": "怀柔区区长梁爽",
+          "threadsNum": 238,
+          "tnumYear": 37
+        }
+      ]
+    },
+    {
+      "fid": 654,
+      "name": "密云区",
+      "hasChild": 1,
+      "threadsNum": 1359,
+      "tnumYear": 120,
+      "leaders": [
+        {
+          "fid": 765,
+          "name": "密云区委书记彭利锋",
+          "threadsNum": 901,
+          "tnumYear": 89
+        },
+        {
+          "fid": 766,
+          "name": "密云区代区长丁章春",
+          "threadsNum": 458,
+          "tnumYear": 31
+        }
+      ]
+    },
+    {
+      "fid": 655,
+      "name": "延庆区",
+      "hasChild": 1,
+      "threadsNum": 652,
+      "tnumYear": 62,
+      "leaders": [
+        {
+          "fid": 767,
+          "name": "延庆区委书记郭怀刚",
+          "threadsNum": 454,
+          "tnumYear": 38
+        },
+        {
+          "fid": 768,
+          "name": "延庆区区长张若冰",
+          "threadsNum": 198,
+          "tnumYear": 24
+        }
+      ]
+    },
+    {
+      "fid": 653,
+      "name": "平谷区",
+      "hasChild": 1,
+      "threadsNum": 1070,
+      "tnumYear": 112,
+      "leaders": [
+        {
+          "fid": 763,
+          "name": "平谷区委书记狄涛",
+          "threadsNum": 789,
+          "tnumYear": 74
+        },
+        {
+          "fid": 764,
+          "name": "平谷区区长李志遂",
+          "threadsNum": 281,
+          "tnumYear": 38
+        }
+      ]
+    },
+    {
+      "fid": 5117,
+      "name": "北京经济技术开发区",
+      "hasChild": 1,
+      "threadsNum": 4102,
+      "tnumYear": 499,
+      "leaders": [
+        {
+          "fid": 5118,
+          "name": "北京经济技术开发区工作委员会书记  孔磊",
+          "threadsNum": 2502,
+          "tnumYear": 332
+        },
+        {
+          "fid": 5119,
+          "name": "北京经济技术开发区管理委员会主任 王磊",
+          "threadsNum": 1600,
+          "tnumYear": 167
+        }
+      ]
+    }
+  ]
+}
